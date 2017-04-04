@@ -1,0 +1,36 @@
+
+{
+	"companyName": "The Orange Literary Agency",
+	"companyCity": "New York City",
+	"contactInfo": "245 West 22nd Street 7th Floor",
+	"contactPhone": "212-917-1347",
+	"active": true,
+	"employee": [{
+		"name": "Jen Sandberg",
+		"office": "Chelsea",
+		"ext": 435,
+		"genres": [
+			"Teen Fiction",
+			"Memiors",
+			"Historical Fiction"
+		]
+	}, {
+		"name": "John Beardman",
+		"office": "Rockefeller Center",
+		"ext": 125,
+		"genres": [
+			"Contemporary Romance",
+			"Sci-Fi",
+			"Mystery"
+		]
+	}, {
+		"name": "Daneille Len",
+		"office": "Williamsburg - Brooklyn",
+		"ext": 119,
+		"genres": [
+			"Art and Photography",
+			"Historical Non-fiction",
+			"Cooking"
+		]
+	}]
+}
